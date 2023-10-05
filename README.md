@@ -1,3 +1,4 @@
+![octocat-1696335025844](https://github.com/nconti26/contin26/assets/146837387/bf0ab726-ad04-4d36-9491-17dd1ea79935)
 # contin26
 ### Code.org GameLab
 
