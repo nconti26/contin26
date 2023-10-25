@@ -15,8 +15,8 @@
 
 >[Animation]
 >
->[Interactive Card]
->
+>[Interactive Card](https://studio.code.org/projects/gamelab/aYQartNfSD6tJPv7jRmJfj44vEiK9aaRlv6LXHqGtms)
+>In this project, I collaborated with another student to create a congratulation poster. We used conditional statements to control and effect different variables in our project.
 >[Side Scroller]
 >
 >[Flyer Game]
