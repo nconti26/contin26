@@ -17,8 +17,9 @@
 >
 >[Interactive Card](https://studio.code.org/projects/gamelab/aYQartNfSD6tJPv7jRmJfj44vEiK9aaRlv6LXHqGtms)
 >In this project, I collaborated with another student to create a congratulation poster. We used conditional statements to control and effect different variables in our project.
->[Side Scroller]
->
+
+>[Side Scroller](https://studio.code.org/projects/gamelab/hVen3z3gyub7lvOVGJnN7HPRB6VlSKdkFIDa-LPnt60)
+>In this project I worked with another student to make a game where it included a character, target, and obstacles. We made the character move up and down to try and colect carrots and avoid the bushes. 
 >[Flyer Game]
 >
 >[Project - Design a Game]
