@@ -12,8 +12,6 @@
 
 >[Captioned Scenes](https://studio.code.org/s/csd3-2023/lessons/11/levels/5)
 > This project is an underwater scene of a school of fish being chased by a shark. 
-
->[Animation]
 >
 >[Interactive Card](https://studio.code.org/projects/gamelab/aYQartNfSD6tJPv7jRmJfj44vEiK9aaRlv6LXHqGtms)
 >In this project, I collaborated with another student to create a congratulation poster. We used conditional statements to control and effect different variables in our project.
@@ -29,3 +27,12 @@ In this project I collaborated with a partner to create a game where a sprite, o
 >
 >[Project - Design a Game](https://studio.code.org/projects/gamelab/trHiguNngY5CKa6aFj8Lf0-kiYkEdbza1YOIOFcmVaU)
 >In this project I made a goal for a fish to get its score up b pushing down the enemy shark to help stop them from touching the egg, or else the score will go down. 
+>
+>[Animal sounds](https://gallery.appinventor.mit.edu/?galleryid=c6a8e8a6-9823-4faa-93c8-f4c403644747)
+>In this app, one can press on the animals to make their realmlife sounds.
+>
+>[Piano Project](https://gallery.appinventor.mit.edu/?galleryid=56310b3e-fa82-4678-868b-e88290ded58f)
+>In this project, there is an interactive piano where if one clicks on the keys to the piano, it will play.
+>
+>[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=661711ad-8cf9-40ea-a795-aebf82b8abb9)
+>In this project one can click on the different instruments to play their different sounds. 
