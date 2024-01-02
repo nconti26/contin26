@@ -37,3 +37,6 @@ In this project I collaborated with a partner to create a game where a sprite, o
 
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=661711ad-8cf9-40ea-a795-aebf82b8abb9)
 >In this project one can click on the different instruments to play their different sounds. 
+
+[Find The Gold](https://ai2.appinventor.mit.edu/#5848620139937792)
+>In this project one has to avoid hitting the walls with their ball to go through a course to find the maze. 
