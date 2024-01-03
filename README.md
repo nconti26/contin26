@@ -40,3 +40,6 @@ In this project I collaborated with a partner to create a game where a sprite, o
 
 [Find The Gold](https://ai2.appinventor.mit.edu/#5848620139937792)
 >In this project one has to avoid hitting the walls with their ball to go through a course to find the maze. 
+
+[Food Chase] (https://ai2.appinventor.mit.edu/#4711762697781248)
+>In this project flick the ball to hit the sports balls to increase your score. 
