@@ -42,4 +42,7 @@ In this project I collaborated with a partner to create a game where a sprite, o
 >In this project one has to avoid hitting the walls with their ball to go through a course to find the maze. 
 
 [Food Chase] (https://ai2.appinventor.mit.edu/#4711762697781248)
->In this project flick the ball to hit the sports balls to increase your score. 
+>In this project flick the ball to hit the sports balls to increase your score.
+
+[Colorado Mountains](https://academy.cs.cmu.edu/exercise/4132/)
+In this project, I created a scene from Colorado. In the scene there is a house on mountains looking over a huge lake with a nice sunset. 
