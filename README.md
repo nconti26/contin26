@@ -47,4 +47,7 @@ In this project I collaborated with a partner to create a game where a sprite, o
 ### Python
 
 [Colorado Mountains] (https://academy.cs.cmu.edu/exercise/4132/)
-In this project, I created a scene from Colorado. In the scene there is a house on mountains looking over a huge lake with a nice sunset. 
+>In this project, I created a scene from Colorado. In the scene there is a house on mountains looking over a huge lake with a nice sunset.
+
+[Day and Night] (https://academy.cs.cmu.edu/exercise/4190/)
+>In this project, I collaborated with a partner to create a scene of the mountains and the sky at night and day. 
