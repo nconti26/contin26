@@ -50,4 +50,10 @@ In this project I collaborated with a partner to create a game where a sprite, o
 >In this project, I created a scene from Colorado. In the scene there is a house on mountains looking over a huge lake with a nice sunset.
 
 [Day and Night] (https://academy.cs.cmu.edu/exercise/4190/)
->In this project, I collaborated with a partner to create a scene of the mountains and the sky at night and day. 
+>In this project, I collaborated with a partner to create a scene of the mountains and the sky at night and day.
+
+[Dark Ocean] (https://academy.cs.cmu.edu/exercise/4236/)
+>In this project, my partner and I created a dark ocean scene where we have a flashlight revealing what is in the ocean.
+
+[Teddy Bear] (https://academy.cs.cmu.edu/exercise/4282/)
+In this project, my partner and I created a customizable teddy bear where you can change the body color, eye color, and the facial expression with just the click of a couple of buttons.
