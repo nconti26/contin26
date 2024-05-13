@@ -57,3 +57,6 @@ In this project I collaborated with a partner to create a game where a sprite, o
 
 [Teddy Bear] (https://academy.cs.cmu.edu/exercise/4282/)
 In this project, my partner and I created a customizable teddy bear where you can change the body color, eye color, and the facial expression with just the click of a couple of buttons.
+
+[Flying Bird] (https://academy.cs.cmu.edu/exercise/4314/)
+In this project, my partner and I used onKeyHold to make a bird move up, down, left, and right throughout a moving sky.
